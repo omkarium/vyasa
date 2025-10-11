@@ -1,0 +1,120 @@
+/*
+ * MODERN STYLE.CSS
+ * Uses Inter font, CSS Grid, clean design, and smooth transitions.
+ */
+
+:root {
+    --primary-color: #007bff; /* A nice blue for links/highlights */
+    --text-color: #333;
+    --background-color: #f4f7f6;
+    --card-bg: #fff;
+    --shadow: rgba(0, 0, 0, 0.05);
+}
+
+/* Optional: Simple Dark Mode - Uncomment and adjust if desired */
+/*
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text-color: #eee;
+        --background-color: #1e2124;
+        --card-bg: #282c34;
+        --shadow: rgba(255, 255, 255, 0.05);
+    }
+}
+*/
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--background-color);
+    padding: 20px;
+}
+
+/* Header Styling */
+header {
+    text-align: center;
+    padding: 40px 20px;
+    margin-bottom: 40px;
+    border-bottom: 2px solid var(--primary-color);
+}
+
+header h1 {
+    font-weight: 800;
+    font-size: 2.5em;
+    margin-bottom: 0.2em;
+}
+
+header p {
+    font-size: 1.1em;
+    opacity: 0.8;
+}
+
+/* Main Content - Page List using CSS Grid */
+.page-list {
+    display: grid;
+    /* Responsive Grid: At least 300px wide columns, max 3 columns */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto 60px auto;
+}
+
+/* Card Styling for Subpages */
+.page-card {
+    display: block; /* Makes the whole card clickable */
+    background-color: var(--card-bg);
+    padding: 25px;
+    border-radius: 12px;
+    text-decoration: none; /* Remove underline from link */
+    color: var(--text-color);
+    box-shadow: 0 4px 12px var(--shadow);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-left: 5px solid var(--primary-color);
+}
+
+.page-card:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+    box-shadow: 0 8px 20px var(--shadow);
+}
+
+.page-card h2 {
+    font-size: 1.5em;
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+.page-card p {
+    margin-bottom: 15px;
+    font-size: 0.95em;
+    opacity: 0.9;
+}
+
+.link-label {
+    display: inline-block;
+    color: var(--primary-color);
+    font-weight: 600;
+    font-size: 0.9em;
+    transition: margin-left 0.3s ease;
+}
+
+.page-card:hover .link-label {
+    margin-left: 5px; /* Subtle movement on hover */
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 0.9em;
+    color: var(--text-color);
+    opacity: 0.6;
+}
