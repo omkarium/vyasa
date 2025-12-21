@@ -1,0 +1,193 @@
+<!-- README.md -->
+
+> 🕊️ **A philosophical and literary character study of Eren Yeager**  
+> Written with loyalty, not persuasion.  
+> This document exists to understand — not to convince.
+
+---
+
+## 📘 README
+
+This repository contains a complete, canon-faithful, philosophical character analysis of **Eren Yeager** from *Attack on Titan*.
+
+- It does **not** attempt to justify or condemn.  
+- It does **not** persuade or debate.  
+- It exists solely to **understand**.
+
+Reading this is not casual consumption.  
+It is an exploration of freedom, fate, sacrifice, and the human condition.
+
+---
+
+## 🧭 Table of Contents
+
+1. Introduction: Stories That Change Us  
+2. Eren Yeager: The Purest Representation of Humanity  
+3. A World Without Villains  
+4. Sacrifice, Not Cruelty  
+5. Freedom as Evolution  
+6. Rejection of False Morality  
+7. Time, Fate, and Determinism  
+8. The Search for Alternatives  
+9. Becoming the Weapon  
+10. Philosophy of the Primal Self  
+11. Eren Is Me  
+12. Conclusion: A Masterclass in Humanity  
+
+---
+
+## Introduction: Stories That Change Us
+
+There are some stories in our lives that are worth seeing, hearing, reading, and learning from—stories that possess the power to transform our personality and our very being to a greater extent. Such stories do not merely entertain; they shape us. The characters within them can either make us or break us. Yet those who truly understand these stories—those who engage with them at a deeper level, take them to heart, and perceive the storytelling from all possible facets—begin to grasp something far greater: the meaning and purpose of life itself.
+
+*Attack on Titan* is one such story, and Eren Yeager is one such character—one who has changed my life forever. Not because he taught me something I did not already know, but because he narrated the story of someone like himself, someone with whom I resonate on multiple levels. Eren Yeager is not merely a protagonist within a narrative; he is a reflection, a confrontation, and an awakening.
+
+In many ways, he is the writer, the mover of fate, and the unexpected creator of *Shingeki no Kyojin* itself. He has become the love of my life, because through him I see what I would do if I were placed in his position, burdened with the same truths and responsibilities.
+
+---
+
+## Eren Yeager: The Purest Representation of Humanity
+
+Eren Yeager—the nineteen-year-old man—is, in my view, the greatest character ever written in fiction. He is a masterpiece. He is the purest representation of what it means to be human. He embodies contradiction without hypocrisy: he shows weakness yet projects overwhelming power; he understands vengeance but remains fiercely loyal; he carries hatred while being driven by sacrificial love. Above all else, he is the ultimate icon of **Freedom**.
+
+Not freedom as a slogan or a political abstraction, but freedom as a lived experience—bloody, painful, and irreversible. Eren does not inherit freedom; he demands it. And he pays its price in full.
+
+---
+
+## A World Without Villains
+
+*Attack on Titan* presents a world of haunting beauty, yet it is simultaneously one of the darkest stories ever told. What makes it extraordinary is that, despite its darkness, it often feels tragically justifiable. You cannot simply point your finger and blame a single group for the suffering of that world. Hatred is inherited. Fear is cultivated. Violence becomes tradition.
+
+There are **innocent people on every side of the conflict**—ordinary men, women, and children born into systems they did not choose, punished for actions they never committed. This truth lies at the core of the story’s tragedy, and it is something Eren Yeager understands more deeply than anyone else.
+
+Eren is not ignorant of the innocence he destroys. He is painfully aware of it. His tragedy is not rooted in blindness, but in clarity. He knows that countless innocent lives will be lost because of decisions made long before they were born. And yet, he moves forward.
+
+This awareness does not absolve the violence, but it fundamentally reframes Eren’s character. He is not evil. He does not take pleasure in suffering. His burden is heavier precisely because he understands the weight of what he is about to do.
+
+---
+
+## Sacrifice, Not Cruelty
+
+What separates Eren from a conventional villain is that he never denies the horror of his actions. He does not hide behind divine justification, moral superiority, or convenient lies. He does not dehumanize his enemies to make killing easier. Instead, he accepts the sin himself.
+
+From my perspective, Eren ultimately sacrifices himself for his friends. His so-called “master plan” ensures that they are the ones who stop him, that they live on as heroes in a world that would otherwise never forgive them. He shoulders the role of the devil so they may inherit the future.
+
+Within Eren, there exists a duality—not a contradiction, but a layering of intent. One part of him loves his friends and wishes for their happiness. Another part of him genuinely seeks to destroy anything that threatens his freedom. This does not make him inconsistent; it makes him human.
+
+---
+
+## Freedom as Evolution
+
+Eren’s definition of freedom evolves throughout the story.
+
+At first, freedom means escaping the walls—breaking free from a cage built to protect yet suffocate. It means defeating the Titans that roam beyond, symbols of an unknown terror.
+
+But when Eren learns the truth—that there are humans across the sea, people he never imagined existed—his world fractures. These people are not passive observers. They are prepared to kill him, his friends, and his people. At that moment, freedom ceases to be an abstract dream and becomes a necessity for survival.
+
+Once it was Titans.  
+Now it is humanity itself.
+
+And just because they are human does not mean Eren must accept their plans or submit to their cruelty.
+
+---
+
+## Rejection of False Morality
+
+Eren rejects the world’s judgment. He rejects Zeke’s euthanasia plan because it is fundamentally anti-life, anti-choice, and anti-freedom. It demands quiet extinction in exchange for temporary peace.
+
+Eren refuses this.
+
+He remains loyal to his first and most sacred principle: **fight**.  
+Fight, and keep fighting.
+
+He is not special because of destiny, prophecy, or bloodlines. As his mother once said, he is not special in that sense. He is special because he was born into this world. Existence itself is his justification.
+
+This belief mirrors existentialist philosophy: **existence precedes essence**.  
+Eren is not born with meaning—he creates it through action.
+
+---
+
+## Time, Fate, and Determinism
+
+Eren’s tragedy deepens through the power of the Attack Titan. His fate is bound in time. By witnessing fragments of the future, he becomes trapped in a paradox where choice and inevitability coexist.
+
+He is not blindly marching forward.  
+He is walking toward a future he already knows.
+
+This aligns with philosophical determinism: the idea that all events are fixed within a causal chain. Yet Eren’s struggle complicates this. Even knowing the future, he chooses it. His freedom lies not in escaping fate, but in **embracing it consciously**.
+
+Like Nietzsche’s concept of *amor fati*—the love of one’s fate—Eren does not merely accept his destiny. He affirms it.
+
+---
+
+## The Search for Alternatives
+
+Importantly, Eren tried other paths. He searched for a future where his people could live without annihilating the rest of the world. But every vision led back to the same conclusion: the world would never stop until Paradis was erased.
+
+Peace was never offered in good faith.  
+It was conditional upon submission, sterilization, or extinction.
+
+Eren rejects all three.
+
+Yet even with this knowledge, he never suppresses his true intentions. He does not pretend to want compromise when he knows it will fail. He does not dilute his resolve to appear virtuous. This brutal honesty is central to who he is.
+
+---
+
+## Becoming the Weapon
+
+When Eren tells Armin that he wanted to see the aftermath of the Rumbling with his own eyes, it is not a confession of cruelty—it is honesty. He does not lie to himself.
+
+His innocence is not lost because he chose evil, but because human greed, fear, and manipulation stripped him of gentler choices. In the end, he becomes the very weapon his enemies feared—not because he desired it, but because they forced his hand.
+
+Eren Yeager embodies the principle of consequence:  
+*fuck around and find out*.
+
+He does not threaten idly.  
+He acts.
+
+---
+
+## Philosophy of the Primal Self
+
+Eren awakens something primal. Loving him feels intoxicating, like ambrosia poured straight down your throat. He recalls philosophies echoed in works like *Fight Club*: confront your inner self, do not suppress it.
+
+If something must be said, say it.  
+If something must be done, do it.
+
+Do not numb yourself for the comfort of others.
+
+Nietzsche warned against slave morality—the system that demands submission in the name of peace. Eren rejects this morality entirely. He chooses the **will to power**, not as domination, but as self-assertion.
+
+---
+
+## Eren Is Me
+
+Eren never abandons what he truly believes in, even when it costs him everything—his reputation, his humanity, his life.
+
+That unwavering conviction is what led me to a realization:
+
+**Eren is me.**
+
+He is the part of us that refuses to bow.  
+The part that would rather be hated than be chained.
+
+We are social animals, yet we are independent beings with wills of our own.  
+To live is to choose.  
+To be free is to accept the consequences of those choices.
+
+---
+
+## Conclusion: A Masterclass in Humanity
+
+Eren Yeager is not evil.  
+He is tragic.  
+He is conscious.  
+He is bound by time.  
+He is driven by love.  
+He is crushed by responsibility.
+
+To study Eren Yeager is not simple character analysis—it is a master’s degree in philosophy. His story forces us to confront determinism, existentialism, moral relativism, sacrifice, and the unbearable cost of freedom.
+
+Eren chose freedom—fully, completely, and without apology.
+
+And that is why he will remain unforgettable.
