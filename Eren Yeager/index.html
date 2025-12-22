@@ -12,6 +12,18 @@
 <body>
 
   <div class="overlay"></div>
+  <audio id="myAudio" controls>
+        <source src="music.aac" type="audio/aac">
+        Your browser does not support the audio element.
+  </audio>
+  <script>
+        // Select the audio element
+        const audio = document.getElementById('myAudio');
+
+        // Set volume to 0.5 (Scale is 0.0 to 1.0)
+        // 0.5 represents "Medium" loudness
+        audio.volume = 0.5;
+  </script>
 
   <header class="aot-header">
     <h1>EREN YEAGER</h1>
